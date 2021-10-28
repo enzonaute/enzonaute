@@ -1,4 +1,14 @@
-### Hi there 👋
+###### 🤠.dev
+
+## hey, i'm Enzo 🤝
+
+##### pleased to meet you ^^
+
+
+- 🔭 i’m currently learning at EPSI's school.
+- 🤔 please take a look at my [Open Source Contributions](./contributions.md) for a list of the projects i've contributed to.
+- 📫 how to reach me ? bonjour@enzonaute.me.
+
 
 <!--
 **enzonaute/enzonaute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
