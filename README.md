@@ -5,7 +5,7 @@
 ##### pleased to meet you ^^
 
 
-- 🔭 i’m currently learning at EPSI's school.
+- 🔭 i’m currently junior developer
 - 🤔 please take a look at my [Open Source Contributions](./contributions.md) for a list of the projects i've contributed to.
 - 📫 how to reach me ? bonjour@enzonaute.me.
 
