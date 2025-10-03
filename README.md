@@ -4,8 +4,6 @@
 
 ##### pleased to meet you ^^
 
-
-- 🔭 i’m currently junior developer
 - 📫 how to reach me ? bonjour@enzonaute.me.
 <br>
 
