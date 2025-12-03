@@ -4,9 +4,6 @@
 
 ##### pleased to meet you ^^
 
-- 📫 how to reach me ? bonjour@enzonaute.me.
-<br>
-
 ### 📊 stats
 <table width="100%"> 
   <tr>
